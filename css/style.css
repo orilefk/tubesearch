@@ -1,0 +1,32 @@
+body {
+	font-family: helvetica, sans-serif;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 500px;
+}
+#top-wrap {
+	margin-top: 15%;
+	background-color: #D92625;
+	color: #ffffff;
+	border-radius: 15px;
+}
+#tube {
+	text-align: center;
+	padding-top: 15px;
+	margin-left: -20px;
+	font-weight: 2rem;
+}
+#search-term {
+	text-align: center;
+	padding-bottom: 15px;
+
+}
+#query {
+	text-align: center;
+}
+#search-results img {
+	margin-top: 20px;
+}
+#search-results img:hover {
+	cursor: pointer;
+}
